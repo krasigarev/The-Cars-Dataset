@@ -9,6 +9,8 @@ The commands that we used in this project:
 - isin() - To show all records including particular elements
 - apply() - To apply a function along any axis of DF
 
+Tasks:
+
 1. Data Cleaning  - Find all Null Values in the dataset. If there is any null value in any column, then fill it with the mean of that column.
 2. Value Counts - Check what are the different types of Make are there in our dataset. And, what is the count (occurrence) of each Make in the data ?
 3. Filtering  - Show all the records where Origin is Asia or Europe.
