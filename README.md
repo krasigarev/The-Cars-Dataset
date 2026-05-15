@@ -1,4 +1,4 @@
-# The-Cars-Dataset
+# The Cars Dataset
 
 ## The commands that we used in this project:
 
